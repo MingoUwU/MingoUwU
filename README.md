@@ -1,12 +1,14 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1&height=300&section=header&text=Hi%20there,%20I'm%20Mingo!&fontSize=80&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20Github%20Space&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1&height=150&section=header" width="100%" />
 
 <!-- Typing effect -->
-<a href="https://github.com/MingoUwU">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🎨+Passionate+about+UI%2FUX+Design;💡+Constantly+Learning+%26+Innovating;✨+Let's+build+something+amazing+together!" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://github.com/MingoUwU">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Mingo!;I'm+a+Full-Stack+Developer;Welcome+to+my+Github+Space!" alt="Typing SVG" />
+  </a>
+</p>
 
 <br/>
 
@@ -57,15 +59,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,angular,tailwind,scss,html,css&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,dotnet,flutter,dart,python,js,ts&perline=9" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi,java,spring,cs,dotnet&perline=10" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,aws,gcp,git,github&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,github,azure,gcp,aws,react&perline=9" />
   </a>
 </p>
 
