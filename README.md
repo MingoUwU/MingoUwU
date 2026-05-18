@@ -1,16 +1,12 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1&height=150&section=header" width="100%" />
-
-<!-- Typing effect -->
+<!-- Typing effect (Main Header) -->
+<br/>
 <p align="center">
   <a href="https://github.com/MingoUwU">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there,+I'm+Mingo!;I'm+a+Full-Stack+Developer;Welcome+to+my+Github+Space!" alt="Typing SVG" />
   </a>
 </p>
-
-<br/>
 
 <!-- Visitor Badge -->
 <p align="center">
@@ -36,7 +32,7 @@
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
     <td style="border: none; background-color: transparent; width: 60%;">
-      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="30" height="30" /> About Me</h2>
+      <h2>👽 About Me</h2>
       <ul>
         <li>🔭 I’m currently working on <b>Awesome Projects</b></li>
         <li>🌱 I’m currently learning <b>Advanced Cloud Architecture & Web3</b></li>
@@ -46,7 +42,9 @@
       </ul>
     </td>
     <td align="center" style="border: none; background-color: transparent; width: 40%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingoUwU&repo=MingoUwU&theme=tokyonight&hide_border=true" width="100%" alt="Pinned Repo" onError="this.style.display='none'"/>
+      <a href="https://github.com/MingoUwU">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MingoUwU&repo=MingoUwU&theme=tokyonight&hide_border=true" width="100%" alt="Pinned Repo" onError="this.style.display='none'"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -55,21 +53,21 @@
 
 <div align="center">
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Tech Stack & Tools</h2>
+<h2>💻 Tech Stack & Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,dotnet,flutter,dart,python,js,ts&perline=9" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,dotnet,flutter,dart,python,js,ts&perline=9" alt="Tech Stack 1" />
   </a>
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,github,azure,gcp,aws,react&perline=9" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,docker,github,azure,gcp,aws,react&perline=9" alt="Tech Stack 2" />
   </a>
 </p>
 
 <br/>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" alt="Trophy" width="35" height="35" /> GitHub Trophies</h2>
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -79,7 +77,7 @@
 
 <br/>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Performance & Stats</h2>
+<h2>🚀 Performance & Stats</h2>
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
@@ -105,15 +103,17 @@
 
 <br/>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="35" height="35" /> Activity Graph</h2>
+<h2>✨ Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MingoUwU&bg_color=0D1117&color=00F0FF&line=F79A8B&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/MingoUwU">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MingoUwU&bg_color=0D1117&color=00F0FF&line=F79A8B&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 </p>
 
 <br/>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> Contributions Graph</h2>
+<h2>🐍 Contributions Graph</h2>
 
 <!-- If you want to use the animated snake, set up the GitHub Action and use the image below. -->
 <!-- Guide: https://github.com/Platane/snk -->
@@ -123,13 +123,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MingoUwU/MingoUwU/output/github-contribution-grid-snake.svg" onError="this.style.display='none'">
 </picture>
 
-*(Note: The snake animation requires a GitHub Action setup. Follow the instructions [here](https://github.com/Platane/snk) to activate it!)*
-
 <br />
 <br />
 
 <details>
-  <summary><b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="20" height="20" /> Quote of the Day</b> (Click to open)</summary>
+  <summary><b>💡 Quote of the Day</b> (Click to open)</summary>
   <br />
   <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
@@ -137,8 +135,5 @@
 </details>
 
 <br />
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
 
 </div>
