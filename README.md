@@ -158,7 +158,7 @@
 <br/>
 
 <h2>🐍 Contributions Snake</h2>
-<img src="./assets/anime_coding.gif" align="right" width="120" />
+<img src="./assets/Lizard Hello GIF.gif" align="right" width="120" />
 
 <!-- Guide: https://github.com/Platane/snk -->
 <picture>
@@ -173,7 +173,7 @@
 <br />
 
 <h2>💡 Daily Fun & Quotes</h2>
-<img src="./assets/pixel_dance.gif" align="left" width="120" />
+<img src="./assets/Lizard Hello GIF.gif" align="left" width="120" />
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
