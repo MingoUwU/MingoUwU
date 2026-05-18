@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Typing effect (Main Header) -->
+<!-- Main Typing Header -->
 <br/>
 <p align="center">
   <a href="https://github.com/MingoUwU">
@@ -8,14 +8,14 @@
   </a>
 </p>
 
-<!-- Visitor Badge -->
+<!-- Dynamic Visitor Badge -->
 <p align="center">
   <a href="https://github.com/MingoUwU">
     <img src="https://komarev.com/ghpvc/?username=MingoUwU&label=Profile%20Views&color=0e75b6&style=flat-square" alt="MingoUwU" />
   </a>
 </p>
 
-<!-- Socials -->
+<!-- Interactive Socials -->
 <p align="center">
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-<h2>💻 Tech Stack & Tools</h2>
+<h2>💻 Tech Stack & Environment</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -68,23 +68,45 @@
   </a>
 </p>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/>
-
-<h2>🏆 GitHub Trophies</h2>
-
+<!-- Work Environment Badges -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MingoUwU&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Terminal-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="Terminal" />
+  <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome" />
 </p>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 
-<h2>🚀 Performance & Stats</h2>
+<h2>📈 Ultimate GitHub Metrics (Achievements & Habits)</h2>
+
+<!-- High-End Metrics Image (Requires the Metrics Action to run) -->
+<picture>
+  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/MingoUwU/MingoUwU/main/github-metrics.svg" onError="this.style.display='none'">
+</picture>
+
+<br/>
+<br/>
+
+<h2>⏰ When I am most Productive</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MingoUwU&theme=tokyonight&utcOffset=7" alt="Productive Time Card" />
+</p>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+<h2>🏆 GitHub Trophies & Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MingoUwU&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
@@ -106,7 +128,6 @@
       </a>
     </td>
     <td align="center" style="border: none; background-color: transparent; padding: 10px;">
-      <!-- WakaTime Stats (Requires WakaTime setup in github-readme-stats action, placeholder provided) -->
       <a href="https://wakatime.com">
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MingoUwU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" onError="this.style.display='none'"/>
       </a>
@@ -118,7 +139,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 
-<h2>✨ Activity & 3D Contributions Graph</h2>
+<h2>✨ Activity Graph & 3D Contributions</h2>
 
 <p align="center">
   <a href="https://github.com/MingoUwU">
@@ -126,11 +147,12 @@
   </a>
 </p>
 
-<!-- 3D Contributions (Requires Action to run first) -->
+<!-- 3D Contributions (Requires profile-3d-contrib Action to run first) -->
 <picture>
   <img alt="3D contributions" src="https://raw.githubusercontent.com/MingoUwU/MingoUwU/main/profile-3d-contrib/profile-night-view.svg" onError="this.style.display='none'">
 </picture>
 
+<br/>
 <br/>
 
 <h2>🐍 Contributions Snake</h2>
