@@ -27,6 +27,7 @@
 </div>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 
 <table align="center" style="border: none; background-color: transparent;">
@@ -50,6 +51,8 @@
 </table>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 <div align="center">
 
@@ -66,6 +69,8 @@
 </p>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 <h2>🏆 GitHub Trophies</h2>
 
@@ -75,6 +80,8 @@
   </a>
 </p>
 
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 
 <h2>🚀 Performance & Stats</h2>
@@ -93,17 +100,25 @@
     </td>
   </tr>
   <tr style="border: none; background-color: transparent;">
-    <td colspan="2" align="center" style="border: none; background-color: transparent; padding: 10px;">
+    <td align="center" style="border: none; background-color: transparent; padding: 10px;">
       <a href="https://github.com/MingoUwU">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingoUwU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </a>
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 10px;">
+      <!-- WakaTime Stats (Requires WakaTime setup in github-readme-stats action, placeholder provided) -->
+      <a href="https://wakatime.com">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MingoUwU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" onError="this.style.display='none'"/>
       </a>
     </td>
   </tr>
 </table>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-<h2>✨ Activity Graph</h2>
+<h2>✨ Activity & 3D Contributions Graph</h2>
 
 <p align="center">
   <a href="https://github.com/MingoUwU">
@@ -111,11 +126,15 @@
   </a>
 </p>
 
+<!-- 3D Contributions (Requires Action to run first) -->
+<picture>
+  <img alt="3D contributions" src="https://raw.githubusercontent.com/MingoUwU/MingoUwU/main/profile-3d-contrib/profile-night-view.svg" onError="this.style.display='none'">
+</picture>
+
 <br/>
 
-<h2>🐍 Contributions Graph</h2>
+<h2>🐍 Contributions Snake</h2>
 
-<!-- If you want to use the animated snake, set up the GitHub Action and use the image below. -->
 <!-- Guide: https://github.com/Platane/snk -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MingoUwU/MingoUwU/output/github-contribution-grid-snake-dark.svg">
@@ -125,15 +144,20 @@
 
 <br />
 <br />
-
-<details>
-  <summary><b>💡 Quote of the Day</b> (Click to open)</summary>
-  <br />
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-  </p>
-</details>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br />
+
+<h2>💡 Daily Fun & Quotes</h2>
+
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" style="border: none; background-color: transparent; padding: 10px;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Quote" />
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 10px;">
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
+    </td>
+  </tr>
+</table>
 
 </div>
