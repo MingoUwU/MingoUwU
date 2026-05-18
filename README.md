@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Main Typing Header -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48fc-b6a6-9810bb600018.gif" align="right" width="120" />
+<img src="./assets/pikachu_wave.gif" align="right" width="120" />
 <br/>
 <p align="center">
   <a href="https://github.com/MingoUwU">
@@ -58,7 +58,7 @@
 <div align="center">
 
 <h2>💻 Tech Stack & Environment</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ce-8167-4632-a567-9c92257f88eb.gif" align="left" width="150" />
+<img src="./assets/cat_typing.gif" align="left" width="150" />
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -158,7 +158,7 @@
 <br/>
 
 <h2>🐍 Contributions Snake</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561115cb-1613-4014-9d18-095904bc493c.gif" align="right" width="120" />
+<img src="./assets/anime_coding.gif" align="right" width="120" />
 
 <!-- Guide: https://github.com/Platane/snk -->
 <picture>
@@ -173,7 +173,7 @@
 <br />
 
 <h2>💡 Daily Fun & Quotes</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e47ebf8-69cb-4016-9ced-65239ca578be.gif" align="left" width="120" />
+<img src="./assets/pixel_dance.gif" align="left" width="120" />
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
