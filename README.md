@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Main Typing Header -->
+<img src="https://media.tenor.com/1qB9H8B64NMAAAAi/miku-hatsune-miku.gif" align="right" width="120" />
 <br/>
 <p align="center">
   <a href="https://github.com/MingoUwU">
@@ -57,6 +58,7 @@
 <div align="center">
 
 <h2>💻 Tech Stack & Environment</h2>
+<img src="https://media.tenor.com/GfSX-u7VqXAAAAAj/coding-bongo-cat.gif" align="left" width="150" />
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -156,6 +158,7 @@
 <br/>
 
 <h2>🐍 Contributions Snake</h2>
+<img src="https://media.tenor.com/bCqSZqGk3O0AAAAi/gawr-gura-walking.gif" align="right" width="120" />
 
 <!-- Guide: https://github.com/Platane/snk -->
 <picture>
@@ -170,6 +173,7 @@
 <br />
 
 <h2>💡 Daily Fun & Quotes</h2>
+<img src="https://media.tenor.com/XqTfVwK-w4EAAAAi/pixel-cat.gif" align="left" width="120" />
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
