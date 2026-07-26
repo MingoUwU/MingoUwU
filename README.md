@@ -82,13 +82,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 
-<h2>✨ Activity Graph & 3D Contributions</h2>
-
-<p align="center">
-  <a href="https://github.com/MingoUwU">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MingoUwU&bg_color=0D1117&color=00F0FF&line=F79A8B&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</p>
+<h2>✨ 3D Contributions</h2>
 
 <!-- 3D Contributions (Requires profile-3d-contrib Action to run first) -->
 <picture>
