@@ -22,6 +22,11 @@ jobs:
           # Personal token is required to aggregate language data from private repos.
           GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Add private C# and Dart activity to the language chart
+        env:
+          PROFILE_OWNER: ${{ github.repository_owner }}
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: node scripts/boost-private-languages.mjs
       - name: Commit & Push
         run: |
           git config user.name github-actions
