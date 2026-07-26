@@ -82,56 +82,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 
-<h2>📈 Ultimate GitHub Metrics (Achievements & Habits)</h2>
-
-<!-- High-End Metrics Image (Requires the Metrics Action to run) -->
-<picture>
-  <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/MingoUwU/MingoUwU/main/github-metrics.svg" onError="this.style.display='none'">
-</picture>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/>
-
-<h2>🏆 GitHub Trophies & Stats</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MingoUwU&theme=radical&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent; padding: 10px;">
-      <a href="https://github.com/MingoUwU">
-        <img src="https://github-readme-stats.vercel.app/api?username=MingoUwU&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent; padding: 10px;">
-      <a href="https://github.com/MingoUwU">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MingoUwU&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none; background-color: transparent;">
-    <td align="center" style="border: none; background-color: transparent; padding: 10px;">
-      <a href="https://github.com/MingoUwU">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MingoUwU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-      </a>
-    </td>
-    <td align="center" style="border: none; background-color: transparent; padding: 10px;">
-      <a href="https://wakatime.com">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MingoUwU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" onError="this.style.display='none'"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/>
-
 <h2>✨ Activity Graph & 3D Contributions</h2>
 
 <p align="center">
