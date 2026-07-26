@@ -90,15 +90,6 @@
 </picture>
 
 <br/>
-<br/>
-
-<h2>⏰ When I am most Productive</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MingoUwU&theme=tokyonight&utcOffset=7" alt="Productive Time Card" />
-</p>
-
-<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 
